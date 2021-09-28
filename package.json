@@ -1,0 +1,12 @@
+{
+  "name": "local-first",
+  "version": "0.1.0",
+  "files": [
+    "local_first_bg.wasm",
+    "local_first.js",
+    "local_first.d.ts"
+  ],
+  "module": "local_first.js",
+  "types": "local_first.d.ts",
+  "sideEffects": false
+}
